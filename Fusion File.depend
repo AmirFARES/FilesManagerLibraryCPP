@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1573906728 source:e:\c++\s3\fusion file\main.cpp
+	<iostream>
+	"GestFile.h"
+
+1573039124 e:\c++\s3\fusion file\gestfile.h
+	<iostream>
+
